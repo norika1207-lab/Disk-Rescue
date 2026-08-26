@@ -12,6 +12,7 @@
 - [04 打包與驗證管線](docs/04-pack-and-verify.md) — tar 排垃圾打包、逐檔 byte/checksum 驗證、中文檔名比對陷阱
 - [05 三碟重組](docs/05-three-disk-reorg.md) — 格式化、rsync 搬移、解 tar、清 AppleDouble、資料夾歸位
 - [06 工具與技巧總表](docs/06-tools-and-techniques.md)
+- [08 多重異地備份](docs/08-multi-site-backup.md) — 唯一副本做成多份、跨機/跨內網跳板、每份驗證、長傳輸監控
 - [07 工程教訓](docs/07-lessons.md) — exFAT 特性、認碟鐵則、監控與判斷紀律
 
 ## 一句話總結
